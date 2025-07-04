@@ -1,0 +1,39 @@
+class Gym  {
+	
+   static   String      gymName                   = "Fit and Fine Gym";
+   static   String      gymAddress                =  "Gangondanahalli"; 
+   static   int         noOFTrainers              =  5; 
+   static   int         noOFTrainees              =  20;    
+   static   String      typesOfEquipments         = "All";
+   static   int         memberId                  =  17;
+   static   int                                   = 20251234567;
+   static   double                                = 27/03/2003;
+   static   long        phoneNumber               = 7204569258l;
+   static   int                                   = 03/05/2024;
+   static   String                                = "sbi.@gamil.com";
+   static   String                                = "Gowri";
+   static   long                                  = 72345678912l;
+   static   String                                = "Saving account";
+   static   String                                = "";
+   static   String                                = "State Bank Of India";
+   static   String                                = "State Bank Of India";
+   static   String                                = "State Bank Of India";
+
+		
+		public static void main(String medicine[]){
+
+		System.out.println("The gymName   is  " + gymName );
+		System.out.println("The  gymAddress  is  " +gymAddress );
+		System.out.println("The   noOFTrainers is  " + noOFTrainers);
+		System.out.println("The    noOFTraineesis  " + noOFTrainees);
+		System.out.println("The   typesOfEquipments is  " + typesOfEquipments );
+		System.out.println("The    memberIdis  " + memberId);
+		System.out.println("The    is  " + );
+		System.out.println("The    is  " + );
+		System.out.println("The    is  " + );
+		System.out.println("The    is  " + );
+		System.out.println("The    is  " + );
+		System.out.println("The    is  " + );
+		System.out.println("The    is  " + );
+		 }
+}
